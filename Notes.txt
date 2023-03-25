@@ -1,0 +1,7 @@
+ Q- what is react?
+ A- A javascript library for building user interface.
+ 
+
+ Q- UseState..
+ A- UseState. ka kaam hai apne ap data ko store karna.
+ - useState state ko manage kar vane ke kaam ata hai.
